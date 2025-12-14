@@ -1,1 +1,28 @@
+<<<<<<< HEAD
 node_modules
+=======
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+.cache/
+.out/
+
+# Firebase
+.firebaserc
+firebase-debug.log
+firestore-debug.log
+
+# VSCode
+.vscode/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+>>>>>>> 8d9c907bf63fc94353cd63905c80347743f9e84e
